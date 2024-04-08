@@ -1,2 +1,2 @@
 # My-first-repository
-I'm learning to work GitHub. This is my first information file
+I'm learning to work with GitHub. This is my first information file
